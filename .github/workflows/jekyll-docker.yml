@@ -1,3 +1,10 @@
+name: Install compatible Bundler
+run: gem install bundler -v "~>2.3"
+
+name: Bundle install
+run: bundle _2.3.25_ install
+
+
 name: Jekyll site CI
 
 on:
