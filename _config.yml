@@ -1,7 +1,7 @@
 title:       "DevCur"
 description: "A developmental curiosity research blog by the Flowers Lab (INRIA)"
 url:         "https://julien-rsbrg.github.io"
-baseurl:     "DevCur"
+baseurl:     "/DevCur"
 author:      "INRIA Flowers Team"
 email:       "pierre-yves.oudeyer@inria.fr"
 profile_picture: "/assets/images/profile.jpg"
